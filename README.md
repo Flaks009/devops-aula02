@@ -1,4 +1,5 @@
 # devops-aula02
 # Fausto Silva
-# Danny Trejo
+# Jack Black
 # Emma Stone
+# Antonio Fagundes
